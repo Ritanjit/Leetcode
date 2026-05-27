@@ -3,7 +3,7 @@ problem_id: undefined
 title: Plus One
 difficulty: Easy
 topics: [Array, Math]
-solved_at: 2026-05-27T19:15:04.989Z
+solved_at: 2026-05-27T19:20:57.018Z
 language: unknown
 url: https://leetcode.com/problems/plus-one/submissions/2014818340/
 ---
