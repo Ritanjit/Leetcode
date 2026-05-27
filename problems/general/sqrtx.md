@@ -3,9 +3,9 @@ problem_id: 50
 title: Sqrt(x)
 difficulty: Medium
 topics: []
-solved_at: 2026-05-27T19:49:25.018Z
+solved_at: 2026-05-27T19:50:11.093Z
 language: unknown
-url: https://leetcode.com/problems/sqrtx/submissions/2014913280/
+url: https://leetcode.com/problems/sqrtx/submissions/2014913664/
 ---
 
 ## Solution
